@@ -1,0 +1,6 @@
+opencv-python
+mediapipe
+fer
+pyttsx3
+pillow
+tk
